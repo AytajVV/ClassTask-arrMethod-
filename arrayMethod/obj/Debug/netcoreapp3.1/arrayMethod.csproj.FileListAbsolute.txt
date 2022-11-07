@@ -1,0 +1,14 @@
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.exe
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.deps.json
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.runtimeconfig.json
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.runtimeconfig.dev.json
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.dll
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\bin\Debug\netcoreapp3.1\arrayMethod.pdb
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.csproj.AssemblyReference.cache
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.AssemblyInfoInputs.cache
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.AssemblyInfo.cs
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.dll
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.pdb
+C:\Users\AytajVV\Desktop\arrayMethod\arrayMethod\obj\Debug\netcoreapp3.1\arrayMethod.genruntimeconfig.cache
